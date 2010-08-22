@@ -3,8 +3,8 @@
       xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
       xmlns:foaf="http://xmlns.com/foaf/0.1/">
 <foaf:PersonalProfileDocument rdf:about="">
-  <foaf:maker rdf:resource="#me"/>
-  <foaf:primaryTopic rdf:resource="#me"/>
+  <foaf:maker rdf:resource="#http://www.brunocarvalho.com/data/bruno@brunocarvalho.com"/>
+  <foaf:primaryTopic rdf:resource="#http://www.brunocarvalho.com/data/bruno@brunocarvalho.com"/>
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="http://www.brunocarvalho.com/data/bruno@brunocarvalho.com">
 	<foaf:name>Bruno Mentges de Carvalho</foaf:name>
